@@ -95,7 +95,7 @@ The notebook includes:
    ```
 3. Open the Jupyter notebook:
    ```bash
-   jupyter notebook "task-1-Exploring_and_Visualizing_the_Dataset.ipynb"
+   jupyter notebook "task-1-Exploring_and_Visualizing_the_Dataset.ipynb
    ```
 4. Run all cells to see the analysis
 
